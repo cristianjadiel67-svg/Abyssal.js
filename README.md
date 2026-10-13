@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=60% src=".examples/Abyssal.jpg">
+  <img width=60% src="[.examples/Abyssal.jpg](https://github.com/cristianjadiel67-svg/Abyssal.js/blob/ae1075c4ea317cf6b52a951b2309268fff03400b/examples/Abyssal.jpg)">
   <br>
   <a href="https://npmjs.com/package/oceanic.js"><img src="https://img.shields.io/npm/v/oceanic.js.svg?style=flat-square&color=informational"></a>
   <a href="https://pkg.pr.new/~/OceanicJS/Oceanic"><img src="https://pkg.pr.new/badge/OceanicJS/Oceanic"></a>
