@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=60% src="https://user-images.githubusercontent.com/68125679/193473284-e14ea33d-b086-4c28-870d-4221e766d775.png">
+  <img width=60% src=".assets/abyssal.png">
   <br>
   <a href="https://npmjs.com/package/oceanic.js"><img src="https://img.shields.io/npm/v/oceanic.js.svg?style=flat-square&color=informational"></a>
   <a href="https://pkg.pr.new/~/OceanicJS/Oceanic"><img src="https://pkg.pr.new/badge/OceanicJS/Oceanic"></a>
