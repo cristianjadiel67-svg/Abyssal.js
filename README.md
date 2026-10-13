@@ -8,7 +8,7 @@
 </p>
 
 ```js
-const { Client } = require("oceanic.js");
+const { Client } = require("abyssal.js");
 const client = new Client({ token: "[TOKEN]" });
 
 client.on("ready", async() => {
