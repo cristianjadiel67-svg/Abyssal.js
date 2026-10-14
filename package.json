@@ -1,7 +1,7 @@
 {
-  "name": "oceanic.js",
+  "name": "abyssal.js",
   "version": "1.15.0",
-  "description": "A NodeJS library for interfacing with Discord.",
+  "description": "A frok modified from oceanic.js",
   "packageManager": "pnpm@10.33.0",
   "main": "./dist/lib/index.js",
   "types": "./dist/lib/index.d.ts",
