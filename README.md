@@ -23,7 +23,7 @@ client.on("error", (err) => {
 
 client.connect();
 ```
-For more examples, see the [examples](https://github.com/OceanicJS/Oceanic/tree/dev/examples) folder on GitHub.
+For more examples, see the [examples](https://github.com/cristianjadiel67-svg/Abyssal.js/examples) folder on GitHub.
 <hr>
 
 ## Installation
@@ -32,7 +32,7 @@ NodeJS **18.13.0** or higher is required.
 **See [Development Builds](#development-builds) if you wish to install in-dev versions.**
 
 ```sh
-npm i oceanic.js --omit=optional
+npm i abyssal.js --omit=optional
 ```
 
 If you need voice support, add `--include=optional`. Voice support is provided by [@discordjs/voice](https://discord.js.org/docs/packages/voice/0.19.0). **Requires NodeJS 22.12.0 or higher**.
@@ -59,8 +59,5 @@ All compression options are mutually exclusive.
 * `@discordjs/voice` - voice, requires node >=22.12.0
 
 ## Links
-* [Examples](https://github.com/OceanicJS/Oceanic/tree/dev/examples)
-* [Latest Release Documentation](https://docs.oceanic.ws/latest)
-* [Development Documentation](https://docs.oceanic.ws/dev)
-* [Discord Server](https://discord.gg/xZ4AhdYrf9)
-* [Source](https://github.com/OceanicJS/Oceanic)
+* [Discord Server](https://discord.gg/UqX38HwXjG)
+* [Source](https://github.com/cristian67-svg/Abyssal.js)
