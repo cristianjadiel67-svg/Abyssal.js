@@ -23,7 +23,7 @@ client.on("error", (err) => {
 
 client.connect();
 ```
-For more examples, see the [examples](https://github.com/cristianjadiel67-svg/Abyssal.js/examples) folder on GitHub.
+For more examples, see the [examples](https://github.com/cristianjadiel67-svg/Abyssal.js/tree/9c54345e6594ef1c0923470a2f35f046009c963e/examples) folder on GitHub.
 <hr>
 
 ## Installation
